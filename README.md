@@ -2,4 +2,4 @@
 Independent Study Website
 Survival Skills Demo Website 
 
-Download and open through index
+https://izzy57467.github.io/SS-Website/
